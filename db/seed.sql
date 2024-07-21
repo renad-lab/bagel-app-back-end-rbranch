@@ -20,6 +20,6 @@ INSERT INTO bagels (name, description, type, price, is_gluten_free, is_available
 ('Baklava Bagel', 'A Middle-Eastern-inspired bagel with flavors of baklava (sweet pastry with nuts and honey).', 'Sweet', 2.50, false, true),
 ('Katsu Curry Bagel', 'A Japanese-inspired bagel with flavors of katsu curry (breaded cutlet with curry sauce).', 'Savory', 2.75, false, true),
 ('Mango Sticky Rice Bagel', 'A Thai-inspired bagel with mango chunks and sticky rice in the dough.', 'Sweet', 2.25, false, true),
-('Chimichurri Bagel', 'An Argentine-inspired bagel with chimichurri sauce infused into the dough.', 'Savory', 2.50, false, true),
+('Moroccan Spice Bagel', 'A Moroccan-inspired bagel with spices like cumin, coriander, and cinnamon for a warm, exotic flavor.', 'Savory', 2.50, false, true),
 ('Feijoada Bagel', 'A Brazilian-inspired bagel with flavors of feijoada (black bean stew) and smoked sausage.', 'Savory', 2.75, false, true),
-('Adobo Bagel', 'A Filipino-inspired bagel with flavors of adobo (marinated chicken or pork in vinegar, soy sauce, garlic, and spices).', 'Savory', 2.75, false, true);
+('Ube Bagel', 'A Filipino-inspired bagel with a sweet and earthy ube (purple yam) flavor.', 'Sweet', 2.75, false, true);
