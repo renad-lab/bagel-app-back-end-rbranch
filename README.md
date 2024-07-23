@@ -9,7 +9,7 @@ To get started, clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/renad-lab/bagel-app-back-end-rbranch.git
 cd bagel-app-back-end-rbranch
-npm install
+npm init -y
 ```
 
 ## Usage
